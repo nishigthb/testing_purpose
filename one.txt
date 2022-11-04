@@ -1,0 +1,2 @@
+inside one.txt
+learning git commands
